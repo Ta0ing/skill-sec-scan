@@ -409,11 +409,3 @@ skill_sec_scan/
 
 ---
 
-## 📮 联系方式
-
-- **项目主页**: https://github.com/copaw/skill-sec-scan
-- **问题反馈**: https://github.com/copaw/skill-sec-scan/issues
-
----
-
-**Made with ❤️ by CoPaw Worker Team**
