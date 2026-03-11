@@ -1,0 +1,26 @@
+# 开发依赖
+# Development Dependencies
+
+# 测试框架
+pytest>=7.0
+pytest-cov>=4.0
+pytest-xdist>=3.0  # 并行测试
+
+# 代码格式化
+black>=23.0
+isort>=5.0
+
+# 代码检查
+flake8>=6.0
+pylint>=2.0
+
+# 类型检查
+mypy>=1.0
+types-PyYAML>=6.0
+
+# 文档工具
+sphinx>=5.0
+sphinx-rtd-theme>=1.0
+
+# 其他工具
+pre-commit>=3.0
